@@ -1,6 +1,6 @@
 # SOFÍA RAMIS COMPANY - SEGUNDO EJERCICIO PYTHON
 
-#Realizamos un prgramapara convertir grados centígrados a grados Fahrenheit
+#Realizamos un programa para convertir grados centígrados a grados Fahrenheit
 #Pedímos los grados centígrados que deseamos convertir
 c = float(input("Dime los grados centigrados"))
 
